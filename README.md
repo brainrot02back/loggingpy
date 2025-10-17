@@ -32,7 +32,7 @@ For Windows, Tkinter is included by default in standard Python distributions.
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 ### 1. **Run the Program**
 
@@ -98,7 +98,7 @@ Other Logs: Linked to previous report #32.
 
 ---
 
-## 🪪 Notes for Use
+##  Notes for Use
 
 * Always verify the data before saving logs.
 * Keep sensitive information encrypted or stored securely.
@@ -106,7 +106,7 @@ Other Logs: Linked to previous report #32.
 
 ---
 
-## 💡 Tips
+##  Tips
 
 * You can customize the folders or add automatic image-saving scripts later.
 * To export logs into a ZIP archive, use Python’s built-in `shutil.make_archive()`.
@@ -114,7 +114,7 @@ Other Logs: Linked to previous report #32.
 
 ---
 
-## 🧱 Future Additions
+##  Future Additions
 
 * Cloud sync for logs.
 * Encrypted note storage.
@@ -122,6 +122,6 @@ Other Logs: Linked to previous report #32.
 
 ---
 
-### ✍️ Author
+###  Author
 
 me brainrot02
